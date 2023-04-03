@@ -1,0 +1,35 @@
+C:\Users\franc\Desktop\Programación\Api Int Chat GPT\obj\Debug\net6.0\Api Int Chat GPT.csproj.AssemblyReference.cache
+C:\Users\franc\Desktop\Programación\Api Int Chat GPT\obj\Debug\net6.0\Api Int Chat GPT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franc\Desktop\Programación\Api Int Chat GPT\obj\Debug\net6.0\Api Int Chat GPT.AssemblyInfoInputs.cache
+C:\Users\franc\Desktop\Programación\Api Int Chat GPT\obj\Debug\net6.0\Api Int Chat GPT.AssemblyInfo.cs
+C:\Users\franc\Desktop\Programación\Api Int Chat GPT\obj\Debug\net6.0\Api Int Chat GPT.csproj.CoreCompileInputs.cache
+C:\Users\franc\Desktop\Programación\Api Int Chat GPT\obj\Debug\net6.0\Api Int Chat GPT.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\franc\Desktop\Programación\Api Int Chat GPT\obj\Debug\net6.0\Api Int Chat GPT.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\franc\Desktop\Programación\Api Int Chat GPT\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\franc\Desktop\Programación\Api Int Chat GPT\bin\Debug\net6.0\appsettings.json
+C:\Users\franc\Desktop\Programación\Api Int Chat GPT\bin\Debug\net6.0\Api Int Chat GPT.exe
+C:\Users\franc\Desktop\Programación\Api Int Chat GPT\bin\Debug\net6.0\Api Int Chat GPT.deps.json
+C:\Users\franc\Desktop\Programación\Api Int Chat GPT\bin\Debug\net6.0\Api Int Chat GPT.runtimeconfig.json
+C:\Users\franc\Desktop\Programación\Api Int Chat GPT\bin\Debug\net6.0\Api Int Chat GPT.dll
+C:\Users\franc\Desktop\Programación\Api Int Chat GPT\bin\Debug\net6.0\Api Int Chat GPT.pdb
+C:\Users\franc\Desktop\Programación\Api Int Chat GPT\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\franc\Desktop\Programación\Api Int Chat GPT\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\franc\Desktop\Programación\Api Int Chat GPT\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\franc\Desktop\Programación\Api Int Chat GPT\bin\Debug\net6.0\OpenAI_API.dll
+C:\Users\franc\Desktop\Programación\Api Int Chat GPT\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\franc\Desktop\Programación\Api Int Chat GPT\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\franc\Desktop\Programación\Api Int Chat GPT\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\franc\Desktop\Programación\Api Int Chat GPT\obj\Debug\net6.0\staticwebassets\msbuild.Api Int Chat GPT.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\franc\Desktop\Programación\Api Int Chat GPT\obj\Debug\net6.0\staticwebassets\msbuild.build.Api Int Chat GPT.props
+C:\Users\franc\Desktop\Programación\Api Int Chat GPT\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Api Int Chat GPT.props
+C:\Users\franc\Desktop\Programación\Api Int Chat GPT\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Api Int Chat GPT.props
+C:\Users\franc\Desktop\Programación\Api Int Chat GPT\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\franc\Desktop\Programación\Api Int Chat GPT\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\franc\Desktop\Programación\Api Int Chat GPT\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\franc\Desktop\Programación\Api Int Chat GPT\obj\Debug\net6.0\scopedcss\bundle\Api Int Chat GPT.styles.css
+C:\Users\franc\Desktop\Programación\Api Int Chat GPT\obj\Debug\net6.0\Api Int Chat GPT.csproj.CopyComplete
+C:\Users\franc\Desktop\Programación\Api Int Chat GPT\obj\Debug\net6.0\Api Int Chat GPT.dll
+C:\Users\franc\Desktop\Programación\Api Int Chat GPT\obj\Debug\net6.0\refint\Api Int Chat GPT.dll
+C:\Users\franc\Desktop\Programación\Api Int Chat GPT\obj\Debug\net6.0\Api Int Chat GPT.pdb
+C:\Users\franc\Desktop\Programación\Api Int Chat GPT\obj\Debug\net6.0\Api Int Chat GPT.genruntimeconfig.cache
+C:\Users\franc\Desktop\Programación\Api Int Chat GPT\obj\Debug\net6.0\ref\Api Int Chat GPT.dll
